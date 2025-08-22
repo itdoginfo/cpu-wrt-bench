@@ -19,7 +19,9 @@ sh <(wget -O - https://raw.githubusercontent.com/itdoginfo/cpu-wrt-bench/refs/he
 |-------------------------|-----------------|-----------------|--------------|----------------|---------------------|-------------------|------------------------|
 | Beeline SmartBox TURBO+ | MediaTek MT7621A | OpenWrt 24.10.1 | 4           | 35.77          | 7.88                | 92.83             | 17.94                  |
 | Xiaomi Mi Router AX3000T | MediaTek MT7981BA  | OpenWrt 24.10.1 | 2        | 291.67         | 10.89               | 581.33            | 19.86                  |
+| Xiaomi Redmi Router AX6S | MediaTek MT7622BV | OpenWrt 24.10.2 | 2            | 304.43         | 12.68               | 607.37            | 23.88                  |
 | FriendlyElec NanoPi R2S | Rockchip RK3328 | OpenWrt 24.10.1 | 4            | 286.60         | 10.80               | 1144.74           | 35.30                  |
+| ASUS TUF-AX4200         | MediaTek MT7986A | OpenWrt 24.10.2 | 4            | 451.10         | 18.70               | 1799.76           | 56.75                  |
 | Xiaomi Redmi Router AX6000 | MediaTek MT7986A | OpenWrt 24.10.1 | 4        | 451.73         | 18.78               | 1805.96           | 55.30                  |
 
 > [!NOTE]
