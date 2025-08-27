@@ -22,7 +22,7 @@ sh <(wget -O - https://raw.githubusercontent.com/itdoginfo/cpu-wrt-bench/refs/he
 | FriendlyElec NanoPi R2S | Rockchip RK3328 | OpenWrt 24.10.1 | 4            | 286.60         | 10.80               | 1144.74           | 35.30                  |
 | Xiaomi Redmi Router AX6000 | MediaTek MT7986A | OpenWrt 24.10.1 | 4        | 451.73         | 18.78               | 1805.96           | 55.30                  |
 | Beelink EQ12                 | Intel N100     | OpenWrt SNAPSHOT | 4            | 1415.47        | 2721.25             | 4909.74           | 4500.39                |
-| Beelink EQ14                  | Intel N150     | OpenWrt SNAPSHOT | 4            | 1449.17        | 2440.35             | 4859.34           | 5417.66                |
+| Beelink EQ14 | Intel N150     | OpenWrt SNAPSHOT | 4            | 1449.17        | 2440.35             | 4859.34           | 5417.66                |
 
 > [!NOTE]
 > n/s - CPU not supported int128 method.
