@@ -23,6 +23,8 @@ sh <(wget -O - https://raw.githubusercontent.com/itdoginfo/cpu-wrt-bench/refs/he
 | Xiaomi Mi Router AX3000T | MediaTek MT7981BA  | OpenWrt 24.10.1 | 2        | 291.67         | 10.89               | 581.33            | 19.86                  |
 | FriendlyElec NanoPi R3S | Rockchip RK3566 | OpenWrt 24.10.2 | 4            | 419.93         | 17.65               | 1652.03           | 51.48                    |
 | Xiaomi Redmi Router AX6000 | MediaTek MT7986A | OpenWrt 24.10.1 | 4        | 451.73         | 18.78               | 1805.96           | 55.30                  |
+| Radxa ROCK Pi 4B+        | Rockchip OP1 64-bit SoC | OpenWrt 24.10.2 | 6            | 512.30         | 21.98               | 2146.80           | 80.34                  |
+
 
 > [!NOTE]
 > n/s - CPU not supported int128 method.
